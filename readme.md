@@ -1,7 +1,7 @@
-# In vit-project
+# In vit-project dir:
 
 > npm run build
 
-# In project-test
+# In project-test dir:
 
 > npm run serve
